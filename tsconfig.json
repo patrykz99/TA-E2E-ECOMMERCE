@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "lib": [
+            "es2022"
+        ],
+        "typeRoots": [
+            "./node_modules/@types"
+        ],
+        "resolveJsonModule": true
+    }
+}
